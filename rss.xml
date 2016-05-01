@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Manureva]]></title>
+        <description><![CDATA[Manureva]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 06:37:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 International Guests ]]></title>
+            <description><![CDATA[<article><h1>2016 International Guests </h1><h2>Jesse Richman </h2><p>Describing himself as “Two times Kitesurfing World Champion on a quest for any and every way to have fun through an intense adrenaline rush” few have dominated the sport (or nailed as many death-defying stunts) as Jesse during his decade long career as a professional athlete. Pro rider for Team Naish, 2013 Red Bull King of the Air and making kitesurfing history with the first successful kitesurfing barrel at Jaws, Maui; Jesse is always pushing the limits of extreme kitesurfing. He also ranks the Cook Islands as one of his favourite places to kite. We’re super excited to welcome Jesse back to Aitutaki again this year and look forward to his extreme, energetic kiting and fun sense of humour. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12eca1cc-8ae7-4641-a5a3-c9ae7101b693.jpg"></article>]]></description>
+            <link>http://manureva-aquafest.com/</link>
+            <guid isPermaLink="false">9d028bf9-6375-47d3-b4c8-7dac9e438afd</guid>
+            <pubDate>Sun, 01 May 2016 06:37:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
