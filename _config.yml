@@ -1,0 +1,28 @@
+name: Manureva
+favicon: null
+layout_spectrum: 0.034816704923287034
+typography_spectrum: 0.6091323061846197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6389732758980244
+  lightness: 0.6486856834962964
+  saturation: 0.9057692668866366
+  rhythmicContrast: 0.06225246889516711
+purpose: []
